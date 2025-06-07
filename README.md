@@ -1,12 +1,8 @@
 # VIN0SAN
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vin0san)
-  
+
 📍 Delhi, IND  
 🧠 Research Interests: NLP · LLMs · Computer Vision
-
-## 📚 Education
-
-- **B.Eng., Electronics and Communication Engineering** — Dr. APJ Kalam Technological University, Lucknow (2022 - present)
 
 ## 🔬 Research Interests
 
@@ -22,6 +18,9 @@
 - **Frameworks:** PyTorch, TensorFlow  
 - **Languages:**  English (CEFR - C1), Hindi (proficient)  
 - **Tools:** LaTeX, Markdown, Git
+
+## 🧠 Education
+**ECE, B.Eng.** @ Dr. APJ Abdul Kalam Technical University (2022–)
 
 ## 🔧 Academic Involvement
 
