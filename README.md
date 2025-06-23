@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C++, Java, JavaScript, Rust, Verilog HDL, MATLAB  
+- **Languages:** Python, C++, Java, JavaScript, GO, Verilog HDL, MATLAB  
 - **Frameworks:** PyTorch, TensorFlow  
 - **Languages:**  English (CEFR - C1), Hindi (proficient)  
 - **Tools:** LaTeX, Markdown, Git
