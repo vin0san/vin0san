@@ -16,11 +16,11 @@
 
 - **Languages:** Python, C++, Java, JavaScript, GO, Verilog HDL, MATLAB  
 - **Frameworks:** PyTorch, TensorFlow  
-- **Languages:**  English (CEFR - C1), Hindi (proficient)  
+- **Languages:**  English (CEFR - C1)  
 - **Tools:** LaTeX, Markdown, Git
 
 ## 🧠 Education
-**ECE, B.Eng.** @ Dr. APJ Abdul Kalam Technical University (2022–)
+🎓 Engineering student (2022–26) — focused on AI, systems, and backend
 
 ## 🔧 Academic Involvement
 
