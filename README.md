@@ -1,5 +1,5 @@
-# Yo, I'm vin 💥
-Undergraduate in Electronics & Communication (India, ‘22–’26) turned **AI/ML** and **full-stack** renegade. I sling code in **Python**, **Go**, and **FastAPI** to build wild tools like a **Go crawler** shredding **10k+ URLs** in <5s, a **FastAPI/React** parser crushing **50MB+ PDFs** in <10s, and a **GMM model** nailing fraud detection on **280k+ transactions** (0.93 ROC-AUC). Deep into **NLP**, **LLMs**, and **computer vision**, with a **medical imaging** project cooking.
+# Hello, I'm Vin 💥
+Undergraduate in Electronics & Communication (India, ‘22–’26) turned **AI/ML** and **full-stack** renegade. I sling code in **Python**, **Go**, and **FastAPI** to build wild tools like a **Go crawler** processing **10k+ URLs** in <5s, a **FastAPI/React** parser crushing **50MB+ PDFs** in <10s, and a **GMM model** nailing fraud detection on **280k+ transactions** (0.93 ROC-AUC). Deep into **NLP**, **LLMs**, and **computer vision**, with a **medical imaging** project cooking.
 
 ---
 
@@ -12,11 +12,10 @@ Undergraduate in Electronics & Communication (India, ‘22–’26) turned **AI/
 
 ---
 
-### 🚀 Built This### 🚀 Built This  
-- **[Contract Intelligence Parser](https://github.com/vin0san/Contract-intel)** – Full-stack app for 50MB+ PDF analysis with FastAPI, React, MongoDB, Docker. 95% accurate field detection. [🎥 Demo](https://www.loom.com/share/4b6f7928616b49ab814b3d9092bbf508?sid=dac677f8-6966-4cda-b465-d6f4c08200d5) | [📸 Screens](https://github.com/vin0san/Contract-intel/tree/main/media)  
-- **[Go Web Crawler](https://github.com/vin0san/go-web-crawler)** – Concurrent Go scraper hauling 10k+ URLs in <5s for ML pipelines. [🎥 Demo soon]  
-- **[Unsupervised Fraud Detection](https://github.com/vin0san/unsupervised-fraud-detection-gmm)** – GMM catching shady transactions (280k+, 0.93 ROC-AUC). [📓 Notebook](https://www.kaggle.com/code/vineet0san/unsupervised-fraud-anomaly-scoring-with-gmm) 
-
+### 🚀 Built This
+- **[Contract Intelligence Parser](https://github.com/vin0san/Contract-intel)** – Full-stack app for 50MB+ PDF analysis with FastAPI, React, MongoDB, Docker. 95% accurate field detection. [🎥 Demo](https://www.loom.com/share/4b6f7928616b49ab814b3d9092bbf508) | [📸 Screens](https://github.com/vin0san/Contract-intel/tree/main/media)  
+- **[Go Web Crawler](https://github.com/vin0san/go-web-crawler)** – Concurrent Go scraper processing 10k+ URLs in <5s for ML pipelines. [🎥 Demo](#) *(coming soon)*  
+- **[Unsupervised Fraud Detection](https://github.com/vin0san/unsupervised-fraud-detection-gmm)** – GMM detecting anomalous transactions (280k+, 0.93 ROC-AUC). [📓 Notebook](https://www.kaggle.com/code/vineet0san/unsupervised-fraud-anomaly-scoring-with-gmm)
 
 ---
 
@@ -30,4 +29,4 @@ Building AI-driven tools, scalable SaaS, and open-source ML pipelines (shoutout 
 
 ---
 
-💣 Chasing **AI/ML** or **full-stack projects** globally. Got a crazy project? I’m in.
+💣 Chasing **AI/ML** or **full-stack projects** globally. Have a challenging project? Let’s collaborate.
