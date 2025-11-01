@@ -1,5 +1,5 @@
 # Hello, I'm Vyn
-Undergraduate in Electronics & Communication (India, ‘22–’26) turned **AI/ML** and **full-stack** renegade. I sling code in **Python**, **Go**, and **FastAPI** to build wild tools like a **Go crawler** processing **10k+ URLs** in <5s, a **FastAPI/React** parser crushing **50MB+ PDFs** in <10s, and a **GMM model** nailing fraud detection on **280k+ transactions** (0.93 ROC-AUC). Deep into **NLP**, **LLMs**, and **computer vision**, with a **medical imaging** project cooking.
+Undergrad Engineering (‘22–’26) turned **AI/ML** and **full-stack** renegade. I sling code in **Python**, **Go**, and **FastAPI** to build wild tools like a **Go crawler** processing **10k+ URLs** in <5s, a **FastAPI/React** parser crushing **50MB+ PDFs** in <10s, and a **GMM model** nailing fraud detection on **280k+ transactions** (0.93 ROC-AUC). Deep into **NLP**, **LLMs**, and **computer vision**, with a **medical imaging** project cooking.
 
 ---
 
