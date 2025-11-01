@@ -1,4 +1,4 @@
-# Hello, I'm Vin 💥
+# Hello, I'm Vyn
 Undergraduate in Electronics & Communication (India, ‘22–’26) turned **AI/ML** and **full-stack** renegade. I sling code in **Python**, **Go**, and **FastAPI** to build wild tools like a **Go crawler** processing **10k+ URLs** in <5s, a **FastAPI/React** parser crushing **50MB+ PDFs** in <10s, and a **GMM model** nailing fraud detection on **280k+ transactions** (0.93 ROC-AUC). Deep into **NLP**, **LLMs**, and **computer vision**, with a **medical imaging** project cooking.
 
 ---
@@ -20,7 +20,8 @@ Undergraduate in Electronics & Communication (India, ‘22–’26) turned **AI/
 ---
 
 ### 🌌 What Drives Me
-Building AI-driven tools, scalable SaaS, and open-source ML pipelines (shoutout **Stellar Gateway**). Drawn to global tech hubs pushing AI and embedded systems.
+Building AI-driven tools, scalable SaaS, and ML pipelines. Drawn to global tech hubs pushing AI and embedded systems.
+As your unofficial フィンランド観光大使, I'm here to guide you through my code wilderness—let's explore!
 
 ---
 
